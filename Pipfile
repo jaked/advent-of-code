@@ -9,6 +9,7 @@ ipykernel = "*"
 python-dotenv = "*"
 ipython-unittest = "*"
 heapdict = "*"
+parse = "*"
 
 [dev-packages]
 
